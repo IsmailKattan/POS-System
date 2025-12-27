@@ -1,4 +1,4 @@
-# cashier_system
+# POS System
 
 This project is a web sale point for managing sales and products.
 
